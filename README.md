@@ -55,8 +55,8 @@
 
 ## 🌐 链接
 
-- 官网：[gswzj.com](https://gswzj.com)
-- GitHub 组织：[github.com/gswzj](https://github.com/gswzj)
+- 🏠 官网：[gswzj.com](https://gswzj.com)
+- 🐙 GitHub 组织：[github.com/gswzj](https://github.com/gswzj)
 
 ```text
             改善无止境
@@ -70,4 +70,4 @@
           每天进步1%
 ```
 
-© 2026 · GSWZJ ·  改善无止境
+© 2026 · GSWZJ ·  改善无止境  ⚡ 由 GitHub Pages 驱动
