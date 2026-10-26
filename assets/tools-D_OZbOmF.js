@@ -1,0 +1,1 @@
+import{m as r}from"./layout-DZqF7D8t.js";r({active:"tools",title:"工具"});document.querySelectorAll(".tool-card[data-href]").forEach(o=>{o.addEventListener("click",()=>{var e;const t=(e=o.dataset.href)==null?void 0:e.trim().toLowerCase();t&&(window.location.href=t)})});console.log("[tools] 工具页已加载");

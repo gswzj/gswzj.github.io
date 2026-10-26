@@ -1,0 +1,1 @@
+import{m as a}from"./layout-DZqF7D8t.js";a({active:"home",title:"首页"});document.querySelectorAll(".tool-card[data-href]").forEach(o=>{o.addEventListener("click",()=>{var t;const e=(t=o.dataset.href)==null?void 0:t.trim().toLowerCase();e&&(window.location.href=e)})});console.log("[main] 首页已加载 · header/footer 由 layout.js 注入");
